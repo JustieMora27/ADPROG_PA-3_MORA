@@ -7,7 +7,7 @@ variables used in the original experiment.
 • Load the CSV file into a DataFrame named cars.
 
 • Use Pandas subsetting, slicing, indexing, and Boolean conditions. Do not manually type any
-  requested table or answer.
+   requested table or answer.
 
 • Do not modify values in cars; create a new DataFrame or Series for each requested subset.
 
